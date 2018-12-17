@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f 
+RewriteRule ^(.*)$ public_html/index.php?digitado=$1 [NC,QSA,L]

@@ -1,0 +1,17 @@
+{
+    "name": "vendor/exemplo-p-d-o",
+    "description": "Descrição do projeto Exemplo-PDO.",
+    "authors": [
+        {
+            "name": "Eliezer",
+            "email": "eliezer@email.here"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/",
+            "config\\": "config/"
+        }
+    }
+}
