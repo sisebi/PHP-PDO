@@ -15,6 +15,7 @@
             <div class="btn-group" role="group" aria-label="Basic example">
                 <a href="Home" type="button" class="btn btn-secondary">Home</a>
                 <a href="Cadastro" type="button" class="btn btn-secondary">Cadastro</a>
+                <a href="Endereco" type="button" class="btn btn-secondary">Endereco</a>
             </div>
             <?= $this->getHeader() ?>
         </div>

@@ -8,6 +8,8 @@
         'Home' => 'Home',
         'Cadastro' => 'Cadastrar',
         'Pessoa' => 'pessoa_store',
+        'Endereco' => 'CadastroEndereco',
+        'viaCep' => 'endereco_store',
     ];
 
     $urli = Uri::load();
